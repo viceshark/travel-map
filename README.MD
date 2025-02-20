@@ -4,10 +4,10 @@ This app will be display yours travel routes on map
 
 Build
 ======
-Cargo check
+cargo check
 
 Run
 ====
-Cargo run
+cargo run
 
 
